@@ -2,7 +2,7 @@
 
 # Service Business — Forecast and Lifetime Value Dashboard
 
-![Service Business Forecast and Lifetime Value Dashboard](images/service-dashboard.png)
+![Service Business Forecast and Lifetime Value Dashboard](ServiceDemo.png)
 
 ## The Business
 
